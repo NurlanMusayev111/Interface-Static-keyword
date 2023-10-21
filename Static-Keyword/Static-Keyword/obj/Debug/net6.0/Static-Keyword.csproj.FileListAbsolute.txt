@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\Static-Keyword\Static-Keyword\bin\Debug\net6.0\Static-Keyword.exe
+C:\Users\lenovo\source\repos\Static-Keyword\Static-Keyword\bin\Debug\net6.0\Static-Keyword.deps.json
+C:\Users\lenovo\source\repos\Static-Keyword\Static-Keyword\bin\Debug\net6.0\Static-Keyword.runtimeconfig.json
+C:\Users\lenovo\source\repos\Static-Keyword\Static-Keyword\bin\Debug\net6.0\Static-Keyword.dll
+C:\Users\lenovo\source\repos\Static-Keyword\Static-Keyword\bin\Debug\net6.0\Static-Keyword.pdb
+C:\Users\lenovo\source\repos\Static-Keyword\Static-Keyword\obj\Debug\net6.0\Static-Keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Static-Keyword\Static-Keyword\obj\Debug\net6.0\Static-Keyword.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Static-Keyword\Static-Keyword\obj\Debug\net6.0\Static-Keyword.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Static-Keyword\Static-Keyword\obj\Debug\net6.0\Static-Keyword.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Static-Keyword\Static-Keyword\obj\Debug\net6.0\Static-Keyword.dll
+C:\Users\lenovo\source\repos\Static-Keyword\Static-Keyword\obj\Debug\net6.0\refint\Static-Keyword.dll
+C:\Users\lenovo\source\repos\Static-Keyword\Static-Keyword\obj\Debug\net6.0\Static-Keyword.pdb
+C:\Users\lenovo\source\repos\Static-Keyword\Static-Keyword\obj\Debug\net6.0\Static-Keyword.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Static-Keyword\Static-Keyword\obj\Debug\net6.0\ref\Static-Keyword.dll
